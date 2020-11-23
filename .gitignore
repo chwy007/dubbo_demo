@@ -1,0 +1,6 @@
+# Project exclude paths
+/dao/target/
+/facade/target/
+/model/target/
+/service-consumer/target/
+/service-producer/target/
